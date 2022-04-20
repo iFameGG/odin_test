@@ -1,0 +1,17 @@
+.pgs {
+    margin: 15px;
+    padding: 20px;
+    border-style: solid;
+    border-color: blueviolet;
+    background-color: aqua;
+    border-width: 3px;
+    border-radius: 20px;
+    flex-shrink: 0;
+    align-items: right;
+}
+
+.line {
+    display: flex;
+    flex: 1 1 auto;
+    flex-direction: row;
+}
